@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Biodata</title>
+<style>
+.wrap{
+background-color:rgba(255,255,255,0.7);
+width: 1000px;
+height: 800px;
+color:black;
+margin: 20px auto;
+padding:15px;
+}
+</style>
+</head>
+<body style="background: url(foto_background.jpg);background-size:cover;background-attachment: fixed;">
+<div class="wrap">
+<h1 class="class" align="center">BIODATA DIRI</h1><hr/ align="center" width="75%" style="border-top: 3px double #8c8b8b;">
+<table align="center">
+<tr><td rowspan="10" width="100px">
+<img src="9B0A1431.JPG" width="200px" style="display: block;border-radius: 50
+%;border-color:black;margin-right: 100px" border="2px" ></td></tr>
+
+<td><h3>BIODATA</h3></td>
+<tr>
+    <td><b>Nama</b></td>
+    <td>:</td> 
+    <td>Aqiilah Zayyaan Syihab</td>
+</tr>
+<tr>
+    <td><b>NPM</b>
+    </td><td>:</td> 
+    <td>21081010239</td>
+</tr>
+<tr>
+    <td><b>TTL</b></td>
+    <td>:</td> 
+    <td>Malang, 19 juli 2003</td>
+</tr>
+<tr>
+    <td><b>Jurusan</b>
+    </td><td>:</td> 
+    <td>Teknik Informatika (S1)</td>
+</tr>
+<tr>
+    <td><b>Alamat</b>
+    </td><td>:</td> 
+    <td>Jl. Kemirahan 2 no 8, Kota Malang</td>
+</tr>
+<tr>
+    <td><b>Email</b>
+    </td><td>:</td> 
+    <td>zayyaan2716@gmail.com</td>
+</tr>
+<tr>
+    <td><b>Hobi</b></td>
+    <td>:</td> 
+    <td>Basket</td>
+</tr>
+<tr>
+    <td><b>Cita-cita</b>
+    </td><td>:</td> 
+    <td>Front-End Developer</td>
+</tr></table><br>
+
+<table align="left" style="margin-left: 490px;">
+<h3 align="left" style="margin-left: 490px;">RIWAYAT PENDIDIKAN</h3>
+<td><b>FORMAL </b></td>
+<tr>
+    <td><b>SD</b></td>
+    <td>:</td> 
+    <td>MIN 1 Kota Malang</td></tr>
+<tr>
+    <td><b>SMP</b></td>
+    <td>:</td> 
+    <td>SMPN 4 Malang</td></tr>
+<tr>
+    <td><b>SMA/MA</b></td>
+    <td>:</td> 
+    <td>MAN 1 Kota Malang</td></tr>
+<td><b>SERTIFIKASI </b></td>
+<tr>
+    <td><b>TOEFL</b></td>
+    <td>:</td> 
+    <td>515</td></tr>
+<tr>
+    <td><b>TOEIC</b></td>
+    <td>:</td> 
+    <td>620</td></tr>
+</table><br>
+</div>
+</body>
+<audio hidden autoplay loop>
+    <source src="Mars Bela Negara.mp3" type="audio/mpeg">
+</audio>
+     
+</html>
